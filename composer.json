@@ -1,9 +1,9 @@
 {
-  "name": "yoomoney/yookassa-sdk-php",
+  "name": "psfd-dev/yookassa-sdk-php",
   "description": "This is a developer tool for integration with YooMoney.",
   "type": "library",
   "license": "MIT",
-  "homepage": "https://yookassa.ru/developers/api",
+  "homepage": "https://github.com/psfd-dev/yookassa-sdk-php",
   "keywords": ["yoomoney", "yookassa", "payments", "api", "sdk"],
   "authors": [
     {
